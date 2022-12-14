@@ -1,0 +1,67 @@
+
+
+body{
+    font-family: 'Cabin', sans-serif;
+}
+
+.titulo{
+    font-family: 'Lobster', cursive;
+    color: #fff;
+    font-size: 2rem;
+}
+
+
+
+.txt-principal{
+    text-align: left;
+    width: 300pt;
+    color:#373A3C;
+   
+}
+
+.button{
+    font-family: 'Cabin', sans-serif;
+
+}
+
+.card-text{
+    color:#373A3C;
+    font-weight: 300;
+}
+
+.suscribete{
+    background-color: #dc3545;
+
+}
+.suscribete h1{
+    text-align: center;
+}
+
+footer{
+    background-color: #373A3C;
+    text-align: center;
+}
+
+.fuente{
+    text-align: center;
+
+}
+
+h3{
+   text-align: center;
+}
+
+.navbar-brand{
+    font-family: 'Lobster', cursive;
+    color: #fff;
+    font-size: 2rem;
+
+}
+
+.col-md-12{
+    text-align: center;
+    justify-content: center;
+
+
+}
+
